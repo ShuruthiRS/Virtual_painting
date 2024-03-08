@@ -1,7 +1,7 @@
 ## Virtual_painting
 
 ## Description
-Virtual Painting is a Python-based application that allows users to create digital artwork using their computer. With this application, users can unleash their creativity by painting on a virtual canvas using various colors and brush sizes.
+-Virtual Painting is a Python-based application that allows users to create digital artwork using their computer. With this application, users can unleash their creativity by painting on a virtual canvas using various colors and brush sizes.
 
 ## Features
 
@@ -12,16 +12,16 @@ Virtual Painting is a Python-based application that allows users to create digit
 ## Installation
 1.Clone the repository:
 
-  git clone https://github.com/yourusername/virtual-painting.git
+  -git clone https://github.com/yourusername/virtual-painting.git
 
 2.Install the required dependencies:
 
-  pip install pygame
+  -pip install pygame
 
 ## Usage
 1.Run the application:
 
-  python virtual_painting.py
+  -python virtual_painting.py
 
 2.Use the following controls:
 
@@ -32,10 +32,10 @@ Virtual Painting is a Python-based application that allows users to create digit
 
 ## Screenshots
 
-https://github.com/ShuruthiRS/Virtual_painting/blob/main/assets/1.jpeg
-https://github.com/ShuruthiRS/Virtual_painting/blob/main/assets/2.jpeg
-https://github.com/ShuruthiRS/Virtual_painting/blob/main/assets/3.jpeg
+![1](https://github.com/ShuruthiRS/Virtual_painting/blob/main/assets/1.jpeg)<br>
+![2](https://github.com/ShuruthiRS/Virtual_painting/blob/main/assets/2.jpeg)<br>
+![3](https://github.com/ShuruthiRS/Virtual_painting/blob/main/assets/3.jpeg)<br>
 
 ## License
 
-This project is licensed under the MIT License.
+ -This project is licensed under the MIT License.
