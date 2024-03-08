@@ -12,26 +12,29 @@ Virtual Painting is a Python-based application that allows users to create digit
 ## Installation
 1.Clone the repository:
 
-git clone https://github.com/yourusername/virtual-painting.git
+  git clone https://github.com/yourusername/virtual-painting.git
 
 2.Install the required dependencies:
 
-pip install pygame
+  pip install pygame
 
 ## Usage
 1.Run the application:
 
-python virtual_painting.py
+  python virtual_painting.py
 
 2.Use the following controls:
 
-Left mouse button: Draw on the canvas.
-'c' key: Clear the canvas.
-'r', 'g', 'b' keys: Change brush color to red, green, or blue respectively.
-'+' and '-' keys: Increase or decrease brush size.
+  -Left mouse button: Draw on the canvas.
+  -'c' key: Clear the canvas.
+  -'r', 'g', 'b' keys: Change brush color to red, green, or blue respectively.
+  -'+' and '-' keys: Increase or decrease brush size.
 
 ## Screenshots
 
+https://github.com/ShuruthiRS/Virtual_painting/blob/main/assets/1.jpeg
+https://github.com/ShuruthiRS/Virtual_painting/blob/main/assets/2.jpeg
+https://github.com/ShuruthiRS/Virtual_painting/blob/main/assets/3.jpeg
 
 ## License
 
